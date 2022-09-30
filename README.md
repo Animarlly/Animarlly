@@ -1,11 +1,10 @@
-### Hi there 👋
+### Hi there 👋 My name is Animarlly
 
 <!--
 **Animarlly/Animarlly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-Here are some ideas to get you started:
-
+- 😄 Pronouns: `he`/`him`
 
 - 🔭 I’m currently working on a Discord Bot
 
@@ -20,11 +19,11 @@ Send me a Direct Message on [Discord](https://discord.com): [@Animarlly#9619](ht
 [![Discord-Banner](https://discord.c99.nl/widget/theme-1/951971985091596328.png)](https://discord.gg/vEr96uY7GM)
 
 
-## Spotify
+### Spotify
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=cdrmarvin&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=cdrmarvin&redirect=true)
 
 <!--
-- 😄 Pronouns: he/him
+
 - ⚡ Fun fact: ...
 -->
 ![](https://komarev.com/ghpvc/?username=animarlly&color=blue)
