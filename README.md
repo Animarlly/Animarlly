@@ -27,4 +27,4 @@ Send me a Direct Message on [Discord](https://discord.com): [@Animarlly#9619](ht
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
 -->
-![](https://komarev.com/ghpvc/?username=your-github-username&color=blue)
+![](https://komarev.com/ghpvc/?username=animarlly&color=blue)
