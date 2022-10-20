@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on a Discord Bot
 
-- 🌱 I’m currently learning PHP, mySQL, HTML, JS and Python
+- 🌱 I’m currently learning mySQL and Python
 
 - 🤔 I’m looking for help with learning
 
