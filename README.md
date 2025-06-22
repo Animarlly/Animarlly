@@ -16,9 +16,9 @@
   
 <summary> 📊 GitHub Stats: </summary>
   
-![](https://github-readme-stats.vercel.app/api?username=animarlly&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=luckymiau&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=animarlly&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=animarlly&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=luckymiau&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
   
 </details>
 
@@ -26,8 +26,8 @@
   
 <summary> 🏆 GitHub Trophies </summary>
   
-![](https://github-profile-trophy.vercel.app/?username=animarlly&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=luckymiau&theme=radical&no-frame=false&no-bg=false&margin-w=4)
   
 </details>
 
-![](https://komarev.com/ghpvc/?username=animarlly&color=blue)
+![](https://komarev.com/ghpvc/?username=luckymiau&color=blue)
