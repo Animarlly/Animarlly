@@ -12,11 +12,6 @@
 
 - 🤔 I’m looking for help with learning
 
-- 📫 How to reach me:
-
-
-[![Discord-Banner](https://discord.c99.nl/widget/theme-2/951971985091596328.png)](https://discord.gg/vEr96uY7GM)
-
 <details>
   
 <summary> 📊 GitHub Stats: </summary>
