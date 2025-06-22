@@ -1,4 +1,4 @@
-### Hi there 👋 My name is Animarlly
+### Hi there 👋 My name is LuckyMiau
 
 <!--
 **Animarlly/Animarlly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,6 @@
 
 - 📫 How to reach me:
 
-Send me a Direct Message on [Discord](https://discord.com): [`Animarlly#9619`](https://discord.com/users/951971985091596328)
 
 [![Discord-Banner](https://discord.c99.nl/widget/theme-2/951971985091596328.png)](https://discord.gg/vEr96uY7GM)
 
